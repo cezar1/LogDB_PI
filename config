@@ -1,0 +1,4 @@
+USER		cezar
+DATABASE	mytestdb
+EVENTSTABLE	myevents
+LOGSTABLE	mylogs
