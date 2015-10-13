@@ -1,4 +1,5 @@
 USER		cezar
+PASSWORD	cezar81745195
 DATABASE	mytestdb
 EVENTSTABLE	myevents
 LOGSTABLE	mylogs
